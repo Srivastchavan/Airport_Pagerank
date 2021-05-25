@@ -1,0 +1,16 @@
+[debug] > Exec({file:/C:/Users/Srivastchavan/Desktop/CS6350Asg2/}cs6350asg2/package, None, None)
+[debug] Evaluating tasks: Compile / package
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Srivastchavan\Desktop\CS6350Asg2\target\scala-2.11\classes ...
+[error] C:\Users\Srivastchavan\Desktop\CS6350Asg2\src\main\scala\PageRank.scala:32:20: type mismatch;
+[error]  found   : org.apache.spark.rdd.RDD[(String, Double)]
+[error]  required: Seq[?]
+[error]     sc.parallelize(tempoutput).saveAsTextFile(output + "")
+[error]                    ^
+[error] one error found
+[debug] Forcing garbage collection...
+[error] (Compile / compileIncremental) Compilation failed
+[error] Total time: 1 s, completed Apr 10, 2021, 10:47:52 PM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

@@ -1,0 +1,39 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\Srivastchavan\Desktop\CS6350Asg2\target\scala-2.11\classes.bak
+[debug] About to delete class files:
+[debug] 	PageRank$$anonfun$main$1$$anonfun$3.class
+[debug] 	PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class
+[debug] 	PageRank$$anonfun$1.class
+[debug] 	PageRank$$anonfun$4.class
+[debug] 	PageRank$$anonfun$main$1$$anonfun$3$$anonfun$apply$1.class
+[debug] 	PageRank$$anonfun$main$1.class
+[debug] 	PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$2.class
+[debug] 	PageRank.class
+[debug] 	PageRank$.class
+[debug] 	PageRank$$anonfun$2.class
+[debug] We backup class files:
+[debug] 	PageRank$$anonfun$main$1$$anonfun$3.class
+[debug] 	PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class
+[debug] 	PageRank$$anonfun$1.class
+[debug] 	PageRank$$anonfun$4.class
+[debug] 	PageRank$$anonfun$main$1$$anonfun$3$$anonfun$apply$1.class
+[debug] 	PageRank$$anonfun$main$1.class
+[debug] 	PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$2.class
+[debug] 	PageRank.class
+[debug] 	PageRank$.class
+[debug] 	PageRank$$anonfun$2.class
+[debug] Registering generated classes:
+[debug] 	tweets.class
+[debug] 	tweets$$typecreator5$1.class
+[debug] 	tweets$$anonfun$1.class
+[debug] 	PageRank$$anonfun$main$1$$anonfun$3.class
+[debug] 	PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class
+[debug] 	PageRank$$anonfun$1.class
+[debug] 	PageRank$$anonfun$4.class
+[debug] 	PageRank$$anonfun$main$1$$anonfun$3$$anonfun$apply$1.class
+[debug] 	PageRank$$anonfun$main$1.class
+[debug] 	PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$2.class
+[debug] 	PageRank.class
+[debug] 	PageRank$.class
+[debug] 	tweets$.class
+[debug] 	PageRank$$anonfun$2.class
+[debug] Removing the temporary directory used for backing up class files: C:\Users\Srivastchavan\Desktop\CS6350Asg2\target\scala-2.11\classes.bak
